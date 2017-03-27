@@ -7,4 +7,4 @@ When you think about freeing print making, it opens many doors. The substrate of
 
 That's why our OpenPrint machine will be mounted on WHEELS.
 
-![openprint](https://github.com/MeAndreae/OpenPrint/blob/master/openPrint-LEFT.png?raw=true)
+<img src="https://github.com/MeAndreae/OpenPrint/blob/master/openPrint-LEFT.png?raw=true" width="400px"/>
