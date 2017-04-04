@@ -12,5 +12,7 @@ That's why our OpenPrint machine will be mounted on WHEELS.
 The code that will run the OpenPrint will mainly be based on 3D CNC printer code:
 
 — X axis will make the printer rolling, step by step.
+
 — Y axis will move the spraying nozzle (printing head) to let it print line by line.
+
 — Z axis is a kind of bonus. It would change the height of the nozzle, to vary the width of printed dots, according to the grayscale of the picture.
