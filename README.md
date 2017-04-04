@@ -7,4 +7,10 @@ When you think about freeing print making, it opens many doors. The substrate of
 
 That's why our OpenPrint machine will be mounted on WHEELS.
 
-<img src="https://github.com/MeAndreae/OpenPrint/blob/master/openPrint-LEFT.png?raw=true" width="400px"/>
+<img src="https://github.com/MeAndreae/OpenPrint/blob/master/OpenPrint-view.png" width="400px"/>
+
+The code that will run the OpenPrint will mainly be based on 3D CNC printer code:
+
+— X axis will make the printer rolling, step by step.
+— Y axis will move the spraying nozzle (printing head) to let it print line by line.
+— Z axis is a kind of bonus. It would change the height of the nozzle, to vary the width of printed dots, according to the grayscale of the picture.
